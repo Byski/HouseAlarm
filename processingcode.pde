@@ -1,5 +1,5 @@
 // ---------------------------
-// HOUSE ALARM SYSTEM BY EBOKOSIA EBUBE JOY
+// HOUSE ALARM SYSTEM
 // ---------------------------
 
 import processing.serial.*; // Import the serial library for communication
